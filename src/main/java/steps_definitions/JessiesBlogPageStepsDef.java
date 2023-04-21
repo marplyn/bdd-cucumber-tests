@@ -1,6 +1,5 @@
 package steps_definitions;
 
-import com.codeborne.selenide.SelenideElement;
 import org.openqa.selenium.By;
 import io.cucumber.java.ru.И;
 
